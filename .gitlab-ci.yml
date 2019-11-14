@@ -3,6 +3,7 @@ image: python:alpine
 before_script:
   - pip install mkdocs
   - pip install mkdocs-material
+  - curl -sSL http://vl-cpo01.ctm.bmc.com/cpolansk/selab-docs/tree/master/docs/images/favicon.io > /lib/python2.7/site-packages/material/assets/images/
   # Add your custom theme if not inside a theme_dir
   # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
   # - pip install mkdocs-material
