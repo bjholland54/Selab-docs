@@ -1,13 +1,5 @@
 image: python:alpine
-stages:
-  - build
-  - deploy
 
-variables:
-
-  AWS_DEFAULT_REGION: us-east-1
-  BUCKET_NAME: bholland
-  
 before_script:
   - pip install mkdocs
   - pip install mkdocs-material
