@@ -1,5 +1,7 @@
 image: python:alpine
-
+stages:
+  - build
+  - deploy
 
 variables:
 
