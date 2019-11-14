@@ -1,1 +1,4 @@
 site_name: SELab Documentation
+
+theme:
+  name: 'material'
