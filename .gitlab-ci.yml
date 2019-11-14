@@ -15,7 +15,7 @@ before_script:
   # - pip install mkdocs-material
 
 pages:
-  stage:build
+  stage: build
   script:
   - mkdocs build
   - mv site public
