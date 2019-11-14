@@ -1,4 +1,16 @@
 site_name: SELab Documentation
-
+nav:
+  - Home: index.md
+  - What's new in this version: about.md
+  - Installation: installation.md
+  - Getting Started: getting-started.md
+  - Tutorials: tutorials.md
+  - Code Reference: code-reference.md
+  - SE Handbook: se-handbook.md
 theme:
   name: 'material'
+  logo: 'images/logo.svg'
+  language: 'en'
+  palette:
+    primary: 'deep orange'
+    accent: 'orange'
