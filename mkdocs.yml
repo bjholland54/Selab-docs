@@ -1,7 +1,7 @@
 site_name: SELab Documentation
 nav:
   - Home: index.md
-  - What's new in this version: about.md
+  - What's new in this version: whatsnew.md
   - Installation: installation.md
   - Getting Started: getting-started.md
   - Tutorials: tutorials.md
