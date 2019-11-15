@@ -11,9 +11,9 @@ before_script:
 pages:
   stage: build
   script:
+  - mkdocs serve
   - mkdocs build
   - mv site public
-  - mkdocs serve
   artifacts:
     paths:
     - public
