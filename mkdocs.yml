@@ -1,12 +1,17 @@
-site_name: SELab Documentation
-nav:
-  - Home: index.md
-  - What's new in this version: whatsnew.md
-  - Installation: installation.md
-  - Getting Started: getting-started.md
-  - Tutorials: tutorials.md
-  - Code Reference: code-reference.md
-  - SE Handbook: se-handbook.md
+site_name: Control-M SELab
+site_description: Project documentation for the Control-M SELab
+site_author: SELab Team
+
+repo_name: SELab Docs
+repo_url: http://vl-cpo01.ctm.bmc.com/cpolansk/selab-docs
+edit_uri: ""
+copyright: >
+  Helps us keep these
+  <b><a href="http://vl-cpo01.ctm.bmc.com/cpolansk/selab-docs">docs</a></b>
+  up-to-date, and complete! 
+
+use_directory_urls: true
+
 theme:
   name: 'material'
   logo: 'images/logo.svg'
@@ -14,3 +19,17 @@ theme:
   palette:
     primary: 'deep orange'
     accent: 'orange'
+  feature:
+    tabs: true
+
+nav:
+  - Home: index.md
+  - Contributing: contributing.md
+  - License: license.md
+  - SELab:
+    - Overview: selab/index.md
+    - Where Do I Start?: selab/connect.md
+    #- Where to start: learn/index.md
+  #- SELab Admin Guide:
+   # - Concepts: admin/concepts.md
+    #- Bootstrapping: admin/bootstrap.md

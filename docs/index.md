@@ -1,14 +1,6 @@
-# SELab Documentation 1.0 Home
+# Control-M SELab Home
 
-## Introduction
-textextextext
+## Announcements
 
-## SELab in a nutshell
-textextextext
-
-## Installation 
-textextextext
-
-## Tutorials
-textextextext
+This documentation, and the SELab itself, is under ***HEAVY*** construction!
 
