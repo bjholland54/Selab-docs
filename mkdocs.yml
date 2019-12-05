@@ -24,12 +24,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Help: help.md
   - Contributing: contributing.md
   - License: license.md
   - SELab:
     - Overview: selab/index.md
     - Where Do I Start?: selab/connect.md
-    #- Where to start: learn/index.md
-  #- SELab Admin Guide:
-   # - Concepts: admin/concepts.md
-    #- Bootstrapping: admin/bootstrap.md
+    - Legacy Systems: selab/legacy.md
