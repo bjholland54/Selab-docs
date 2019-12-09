@@ -31,3 +31,5 @@ nav:
     - Overview: selab/index.md
     - Where Do I Start?: selab/connect.md
     - Legacy Systems: selab/legacy.md
+  - SE Handbook:
+    - Overview: sehandbook/index.md
