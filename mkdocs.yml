@@ -8,7 +8,7 @@ edit_uri: ""
 copyright: >
   Helps us keep these
   <b><a href="http://vl-cpo01.ctm.bmc.com/cpolansk/selab-docs">docs</a></b>
-  up-to-date, and complete! 
+  up-to-date, and complete!
 
 use_directory_urls: true
 
@@ -33,3 +33,9 @@ nav:
     - Legacy Systems: selab/legacy.md
   - SE Handbook:
     - Overview: sehandbook/index.md
+    - Administrative: sehandbook/administrative.md
+    - Demos: sehandbook/demos.md
+    - MBOs: sehandbook/mbos.md
+    - PM and R&D: sehandbook/pmandrnd.md
+    - Sales: sehandbook/sales.md
+    - Tools: sehandbook/tools.md
