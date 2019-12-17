@@ -4,4 +4,8 @@
 
 This documentation, and the SELab itself, is under ***HEAVY*** construction!
 
-Hey Brandi! We need to follow proper branching and merging for this to make sense... lol
+All things solution engineering for Control-M, from here on out, will live
+and breathe on this MkDocs site. This includes the Solution Engineering 
+Handbook. Please explore the handbook by clicking the tab above.
+
+
