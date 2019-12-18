@@ -78,7 +78,6 @@ your Licensed Capacity and how it is counted.
 
 
 How are tasks/jobs counted?
---------------------------------
 
 •   The task count is based on the  total number of jobs present in  the Control –M “Active Jobs” databases  within any 24-hour period,
 as further described in your contract.
@@ -107,8 +106,6 @@ databases, are not counted as tasks.
 
 The purpose of the below text is to aid the general use of the Control-M reporting tool.
 This below text is no way supersedes, replaces, or modifies your contract, which is the document that details your Licensed Capacity and how it is counted.
-
-Server Endpoint Licensing
 
 All machines upon which any Control-M component is installed or upon which Control -M managed workload runs must be licensed.
 This includes Control-M Agent platforms onto which one or more application plug-ins are installed but also includes Control -M Agent
